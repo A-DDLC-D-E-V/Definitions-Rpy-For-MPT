@@ -71,6 +71,8 @@ bscream: Casual screaming expression
 
 NEW 3# pose: Left-on-chest pose
 NEW 3b# pose: Left-on-chest casual pose
+6# pose: Right-cut pose
+7# pose: Right-cut left-on-chest pose
 
 #x expression: Sadly smiling expression
 #y expression: Angry closed-mouth expression
@@ -101,3 +103,11 @@ NEW 3b# pose: Left-on-chest casual pose
 5bd expression: Leaning casual angry closed-mouth expression
 
 **Overall, many fun new expressions/poses were added!**
+
+## YuriOriginalPoses.txt
+
+This has everything MAIN.txt has except for the following:
+
+### Changes
+
+Yuri's 4# and 5# expressions have been moved back to 3# and 4#, and the 3# has been moved to 5#. This is for compatibility with older scripts that your mod may be borrowing from (such as the original DDLC game).
