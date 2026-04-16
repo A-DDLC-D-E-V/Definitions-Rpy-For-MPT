@@ -45,7 +45,7 @@ image yuri 7 = "yuri turned uniform lup rcut nobl ma e1a b1a"
 image yuri b1 = "yuri turned casual ldown rdown nobl ma e1a b1a"
 image yuri b2 = "yuri turned casual ldown rup nobl ma e1a b1a"
 image yuri b3 = "yuri turned casual lup rdown nobl ma e1a b1a"
-image yuri b4 = "yuri turned casual lup rdown nobl ma e1a b1a"
+image yuri b4 = "yuri turned casual lup rup nobl ma e1a b1a"
 image yuri b5 = "yuri shy casual nobl m1 e1 b1"
 
 image monika 1 = "monika forward uniform ldown rdown nobl ma e1a b1a"
