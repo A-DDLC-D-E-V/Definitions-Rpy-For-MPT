@@ -6,7 +6,7 @@ image sayori 5 = "sayori tap uniform awkw m1 e1 b1"
 image sayori b1 = "sayori turned casual ldown rdown nobl ma e1a b1a"
 image sayori b2 = "sayori turned casual ldown rup nobl ma e1a b1a"
 image sayori b3 = "sayori turned casual lup rdown nobl ma e1a b1a"
-image sayori b4 = "sayori turned casual lup rdown nobl ma e1a b1a"
+image sayori b4 = "sayori turned casual lup rup nobl ma e1a b1a"
 image sayori b5 = "sayori tap casual awkw m1 e1 b1"
 
 image natsuki 1 = "natsuki turned uniform ff ldown rdown nobl ma e1a b1a"
@@ -56,7 +56,7 @@ image monika 5 = "monika lean uniform nobl m1 e1 b1"
 image monika b1 = "monika forward casual ldown rdown nobl ma e1a b1a"
 image monika b2 = "monika forward casual ldown rup nobl ma e1a b1a"
 image monika b3 = "monika forward casual lup rdown nobl ma e1a b1a"
-image monika b4 = "monika forward casual lup rdown nobl ma e1a b1a"
+image monika b4 = "monika forward casual lup rup nobl ma e1a b1a"
 image monika b5 = "monika lean casual nobl m1 e1 b1"
 
 # Sayori's Character Definitions
