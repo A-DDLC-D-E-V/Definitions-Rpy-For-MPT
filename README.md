@@ -1,5 +1,6 @@
 Do not check the releases. There are no releases. This is one of the rare times I'm asking you to check the master instead :)<br>
 This is Definitions.Rpy For MPT (By A DDLC **D E V**) which is a modification to DDLC's files for making DDLC mods.<br>
+This is my first repository that isn't a DDLC mod, and is instead a tool for making your own! YIPPEE!!!
 
 ## How to use Definitions.Rpy For MPT
 
