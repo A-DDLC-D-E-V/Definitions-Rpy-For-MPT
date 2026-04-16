@@ -112,3 +112,4 @@ This has everything MAIN.txt has except for the following:<br>
 ### Changes
 
 Yuri's 4# and 5# expressions have been moved back to 3# and 4#, and the 3# has been moved to 5#. This is for compatibility with older scripts that your mod may be borrowing from (such as the original DDLC game).
+
