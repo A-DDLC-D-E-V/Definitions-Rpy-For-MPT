@@ -36,13 +36,13 @@ Replace it with one of the master files' full contents *(comments in the files a
 
 This is the original version of Definitions.Rpy For MPT, and the version I usually use for my DDLC mods. These are replications of the original DDLC expressions except for the following:
 
-#### Changes
+### Changes
 
 Yuri's original 3# pose got moved to 4#, and her original 4# pose got moved to 5# (same with 3b# > 4b# and 4b# > 5b#). This is to fit in with the other three girls.
 
 The 1, 2, 3, 4, and 5 poses (and 11, 21, 31, 41, 51, 12, 42 for Natsuki) with the numbers by themselves have been removed.
 
-#### Additions
+### Additions
 
 **Sayori**
 
