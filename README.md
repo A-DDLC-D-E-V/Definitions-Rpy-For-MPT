@@ -113,3 +113,59 @@ This has everything MAIN.txt has except for the following:<br>
 
 Yuri's 4# and 5# expressions have been moved back to 3# and 4#, and the 3# has been moved to 5#. This is for compatibility with older scripts that your mod may be borrowing from (such as the original DDLC game).
 
+## PoseOnlyExpressions.txt
+
+This has everything MAIN.txt has except for the following:<br>
+
+### Changes
+
+The 1, 2, 3, 4, 5 (and 11, 21, 31, 41, 51, 12, 42 for Natsuki) expressions have been added back to all 4 girls.<br>
+Just like 3#, 3b#, 4#, and 4b# got moved to 4#, 4b#, 5#, and 5b# respectively for Yuri, same goes with 3 and 4 to 4 and 5 respectively.
+
+### Additions
+
+**Sayori**
+
+b1 expression: 1ba expression<br>
+b2 expression: 2ba expression<br>
+b3 expression: 3ba expression<br>
+b4 expression: 4ba expression<br>
+b5 expression: 5ba expression<br>
+
+**Natsuki**
+
+1 expression: 1a expression
+2 expression: 2a expression<br>
+3 expression: 3a expression<br>
+4 expression: 4a expression<br>
+5 expression: 5a expression<br>
+b1 expression: 1ba expression<br>
+b2 expression: 2ba expression<br>
+b3 expression: 3ba expression<br>
+b4 expression: 4ba expression<br>
+b5 expression: 5ba expression<br>
+22 expression: 22a expression<br>
+32 expression: 32a expression<br>
+52 expression: 52a expression<br>
+b22 expression: 22ba expression<br>
+b32 expression: 32ba expression<br>
+b52 expression: 52ba expression<br>
+
+**Yuri**
+
+NEW 3 expression: 3a expression<br>
+b1 expression: 1ba expression<br>
+b2 expression: 2ba expression<br>
+b3 expression: 3ba expression<br>
+b4 expression: 4ba expression<br>
+b5 expression: 5ba expression<br>
+6 expression: 6a expression<br>
+7 expression: 7a expression<br>
+
+**Monika**
+
+b1 expression: 1ba expression<br>
+b2 expression: 2ba expression<br>
+b3 expression: 3ba expression<br>
+b4 expression: 4ba expression<br>
+b5 expression: 5ba expression<br>
