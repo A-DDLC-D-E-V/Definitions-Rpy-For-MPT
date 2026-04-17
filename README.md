@@ -82,6 +82,8 @@ NEW 3b# pose: Left-on-chest casual pose<br>
 #z expression: Very angry expression<br>
 
 #by# expressions: Casual yandere expressions (for example 1by1, 3by3, 4by5, etc.)<br>
+scream: Screaming expression<br>
+bscream: Casual screaming expression<br>
 
 **Monika**
 
@@ -104,6 +106,9 @@ NEW 3b# pose: Left-on-chest casual pose<br>
 5d expression: Leaning angry closed-mouth expression<br>
 5bc expression: Leaning casual happy open-mouth expression<br>
 5bd expression: Leaning casual angry closed-mouth expression<br>
+
+scream: Screaming expression<br>
+bscream: Casual screaming expression<br>
 
 **Overall, many fun new expressions/poses were added!**
 
