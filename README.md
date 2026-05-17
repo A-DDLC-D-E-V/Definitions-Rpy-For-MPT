@@ -176,3 +176,7 @@ b2 expression: 2ba expression<br>
 b3 expression: 3ba expression<br>
 b4 expression: 4ba expression<br>
 b5 expression: 5ba expression<br>
+
+## Original.txt
+
+This has *only* the original expressions from the original DDLC, and nothing else. Good for modifying the original DDLC directly.
