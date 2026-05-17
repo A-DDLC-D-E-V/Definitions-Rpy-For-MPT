@@ -141,7 +141,7 @@ b5 expression: 5ba expression<br>
 
 **Natsuki**
 
-1 expression: 1a expression
+1 expression: 1a expression<br>
 2 expression: 2a expression<br>
 3 expression: 3a expression<br>
 4 expression: 4a expression<br>
