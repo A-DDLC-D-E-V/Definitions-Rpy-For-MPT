@@ -32,6 +32,7 @@ image monika g2:<br>
 
 Replace it with one of the master files' full contents *(comments in the files are by Bronya-Rand because I used their DDLC template)*.<br>
 Then, import Chronos' Mod Posing Tool (MPT) into the DDLC mod (https://drive.google.com/drive/folders/136KBThnImX3qABRlMO8YKykM5gtLI_6x) using this tutorial by EqualsM3rc: https://www.youtube.com/watch?v=v65X-Gj5g3s. MPT is required otherwise Ren'Py will either error out or simply not display the characters.<br>
+Refer to this guide by MrEpicIsHere777 for the original expressions for reference: https://docs.google.com/document/d/1LCS_5lDERM5VardjJ5IDqdXp9zMVL-irespq11mJr7g/edit?tab=t.0
 
 **Why would I need to use this?** Because it lets you use the most 'common' MPT poses quickly and allows you to easily add more. Plus, it makes all expressions compatible with AAA (Autofocus-Automouth-Autozorder) and NBT (Natural Blinking Tool) so yay :)
 
