@@ -1439,8 +1439,8 @@ image monika 5bb = "monika lean casual nobl m2 e1 b2"
 image monika 5bc = "monika lean casual nobl m3 e1 b1"
 image monika 5bd = "monika lean casual nobl m4 e1 b2"
 
-image monika scream = "monika forward uniform ldown rdown scream"
-image monika bscream = "monika forward casual ldown rdown scream"
+image monika scream = "monika forward uniform ldown rdown s_scream"
+image monika bscream = "monika forward casual ldown rdown s_scream"
 
 # This image transform shows a glitched Monika during a special poem.
 image monika g1:
